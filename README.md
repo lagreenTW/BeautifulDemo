@@ -1,8 +1,8 @@
-# Awesome-Demo
-Every awesome demo should be engraved.
+# BeautifulDemo
+Every beautiful demo should be engraved.
 
 ```python
-#less demo, most awesome.
+#less demo, most beautiful!
 
 print("Hello World!")
 ```
